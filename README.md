@@ -19,7 +19,8 @@ O sistema percorre um pipeline completo de dados:
 
 ## 📸 Dashboard (Demonstração)
 
-*(Arraste o print do seu dashboard aqui)*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a0330ee9-1b89-4790-8d48-3d9ad52ead16" />
+
 
 > O Dashboard exibe a acurácia do modelo em tempo real e permite auditar onde o algoritmo acertou ou errou.
 
