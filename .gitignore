@@ -1,0 +1,15 @@
+# Arquivos de configuração do PyCharm (ninguém quer ver isso)
+.idea/
+
+# Arquivos compilados do Python (lixo automático)
+__pycache__/
+*.pyc
+
+# Ambientes virtuais (se tiver)
+venv/
+env/
+.env
+
+# Banco de dados (Opcional: Se quiser que o DB vá para o GitHub, remova a linha abaixo)
+# Eu recomendo enviar agora para seu portfólio funcionar na hora, então vou deixar comentado:
+# *.db
